@@ -294,7 +294,7 @@
 
 #### Battery Life Optimizations
 
-* **How to reduce battery usage in an android application?**
+* **How to reduce battery usage in an android application?** -[Answer](https://blog.mindorks.com/battery-optimization-for-android-apps-f4ef6170ff70)
 
 * **What is Doze? What about App Standby?** - [Learn from here](https://developer.android.com/training/monitoring-device-state/doze-standby)
 
