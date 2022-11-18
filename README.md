@@ -302,7 +302,7 @@
 
 #### Supporting Different Screen Sizes
 
-* **How do you support different types of resolutions?** - [Learn from here](https://developer.android.com/training/multiscreen/screensizes)
+* **How do you support different types of resolutions?** - [Learn from here](https://developer.android.com/training/multiscreen/screensizes) [Answer](https://medium.com/oceanize-geeks/supporting-different-screen-sizes-andorid-98d93493e50b)
 
 #### Permissions
 
