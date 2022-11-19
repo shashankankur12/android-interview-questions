@@ -328,23 +328,23 @@
 
 #### Android Jetpack
 
-* **What is Android Jetpack and why to use this?** - [ANSWER](What is Android Jetpack and why to use this?)
+* **What is Android Jetpack and why to use this?** - [ANSWER](https://blog.mindorks.com/what-is-android-jetpack-and-why-should-we-use-it)
 
-* **What are Android Architecture Components?**
+* **What are Android Architecture Components?** - [Answer](https://blog.mindorks.com/what-are-android-architecture-components)
 
-* **What is LiveData in Android?**
+* **What is LiveData in Android?** - [Answer](https://blog.mindorks.com/understanding-livedata-in-android)
 
-* **How LiveData is different from ObservableField?**
+* **How LiveData is different from ObservableField?** - [Answer](https://blog.mindorks.com/livedata-vs-observable-in-android)
 
 * **What is the difference between setValue and postValue in LiveData?**
 
-* **How to share ViewModel between Fragments in Android?**
+* **How to share ViewModel between Fragments in Android?** - [Answer](https://blog.mindorks.com/shared-viewmodel-in-android-shared-between-fragments)
 
-* **Explain Work Manager in Android.**
+* **Explain Work Manager in Android.** - [Answer](https://blog.mindorks.com/integrating-work-manager-in-android)
 
 * **Use-cases of WorkManager in Android.**
 
-* **How ViewModel work internally?**
+* **How ViewModel work internally?** - [Answer](https://blog.mindorks.com/android-viewmodels-under-the-hood)
 
 #### Others
 
