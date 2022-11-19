@@ -434,11 +434,11 @@
 
 * **Describe the architecture of your last app.**
 
-* **Describe MVP.**
+* **Describe MVP.** - [Answer](https://medium.com/cr8resume/make-you-hand-dirty-with-mvp-model-view-presenter-eab5b5c16e42)
 
 * **Describe MVVM.** - [MVVM Architecture](https://amitshekhar.me/blog/mvvm-architecture-android)
 
-* **MVC vs MVP vs MVVM architecture.**
+* **MVC vs MVP vs MVVM architecture.** - [Answer](https://blog.mindorks.com/mvc-mvp-mvvm-architecture-in-android)
 
 * **What is presenter?**
 
