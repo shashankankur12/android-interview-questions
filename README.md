@@ -1072,41 +1072,41 @@
 
 * **Monitor and Synchronization**
 
-* **Tell some advantages of Kotlin.**
+* **Tell some advantages of Kotlin.** - [Answer](https://blog.mindorks.com/why-you-must-try-kotlin-for-android-development-e14d00c8084b)
 
-* **What is the difference between `val` and `var`?** - [Learn from here](https://stackoverflow.com/questions/44200075/val-and-var-in-kotlin)
+* **What is the difference between `val` and `var`?** - [Learn from here](https://stackoverflow.com/questions/44200075/val-and-var-in-kotlin) [Answer](https://www.geeksforgeeks.org/difference-between-var-and-val-in-kotlin/)
 
-* **What is the difference between `const` and `val`?** - [Learn from here](https://amitshekhar.me/blog/const-in-kotlin)
+* **What is the difference between `const` and `val`?** - [Learn from here](https://amitshekhar.me/blog/const-in-kotlin) [Answer](https://www.geeksforgeeks.org/whats-the-difference-between-const-and-val-in-kotlin/)
 
-* **How to ensure `null` safety in Kotlin?**
+* **How to ensure `null` safety in Kotlin?** -  [Answer](https://www.geeksforgeeks.org/kotlin-null-safety/)
 
-* **When to use `lateint` keyword used in Kotlin?** - [Learn from here](hhttps://amitshekhar.me/blog/lateinit-vs-lazy-in-kotlin)
+* **When to use `lateint` keyword used in Kotlin?** - [Learn from here](hhttps://amitshekhar.me/blog/lateinit-vs-lazy-in-kotlin) [Answer](https://blog.mindorks.com/learn-kotlin-lateinit-vs-lazy)
 
-* **How to check if a `lateinit` variable has been initialized?** - [Learn from here](https://amitshekhar.me/blog/lateinit-vs-lazy-in-kotlin)
+* **How to check if a `lateinit` variable has been initialized?** - [Learn from here](https://amitshekhar.me/blog/lateinit-vs-lazy-in-kotlin) [Answer](https://www.geeksforgeeks.org/how-to-check-if-a-lateinit-variable-has-been-initialized-or-not-in-kotlin/)
 
-* **How to do lazy initialization of variables in Kotlin?** - [Learn from here](https://amitshekhar.me/blog/lateinit-vs-lazy-in-kotlin)
+* **How to do lazy initialization of variables in Kotlin?** - [Learn from here](https://amitshekhar.me/blog/lateinit-vs-lazy-in-kotlin) [Answer](https://medium.com/mobile-app-development-publication/kotlin-variable-to-be-lazy-or-to-be-late-ab865c682d61)
 
-* **What are `companion objects` in Kotlin?** - [Learn from here](https://amitshekhar.me/blog/companion-object-in-kotlin)
+* **What are `companion objects` in Kotlin?** - [Learn from here](https://amitshekhar.me/blog/companion-object-in-kotlin) [Answer](https://blog.mindorks.com/companion-object-in-kotlin)
 
-* **What are the visibility modifiers in Kotlin?**
+* **What are the visibility modifiers in Kotlin?** - [Answer](https://blog.mindorks.com/learn-kotlin-visibility-modifiers-private-protected-internal-public)
 
-* **What is the equivalent of Java static methods in Kotlin?**
+* **What is the equivalent of Java static methods in Kotlin?** - [Answer](https://blog.mindorks.com/what-is-the-equivalent-of-java-static-methods-in-kotlin)
 
-* **What is a data class in Kotlin?**
+* **What is a data class in Kotlin?**- [Answer](https://www.geeksforgeeks.org/kotlin-data-classes/)
 
-* **How to create a Singleton class in Kotlin?**
+* **How to create a Singleton class in Kotlin?** - [Answer](https://blog.mindorks.com/how-to-create-a-singleton-class-in-kotlin)
 
-* **What is the difference between `open` and `public` in Kotlin?** - [Learn from here](https://amitshekhar.me/blog/open-keyword-in-kotlin)
+* **What is the difference between `open` and `public` in Kotlin?** - [Learn from here](https://amitshekhar.me/blog/open-keyword-in-kotlin) [Learn from here](https://www.delftstack.com/howto/kotlin/kotlin-open-class/)
 
-* **Explain the use-case of `let`, `run`, `with`, `also`, `apply` in Kotlin.**
+* **Explain the use-case of `let`, `run`, `with`, `also`, `apply` in Kotlin.** - [Answer]([https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply))
 
-* **Difference between List and Array types in Kotlin**
+* **Difference between List and Array types in Kotlin** [Answer]([https://blog.mindorks.com/difference-between-list-and-array-types-in-kotlin))
 
-* **What are `Labels` in Kotlin?**
+* **What are `Labels` in Kotlin?** [Answer]([https://www.geeksforgeeks.org/returns-jumps-and-labels-in-kotlin/))
 
 * **What is an `Init` block in Kotlin?** - [Learn from here](https://amitshekhar.me/blog/init-block-in-kotlin)
 
-* **Explain `pair` and `triple` in Kotlin.**
+* **Explain `pair` and `triple` in Kotlin.** [Answer](https://blog.mindorks.com/pair-and-triple-in-kotlin)
 
 * **How to choose between `apply` and `with`?**
 
