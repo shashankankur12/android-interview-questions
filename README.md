@@ -1098,11 +1098,11 @@
 
 * **What is the difference between `open` and `public` in Kotlin?** - [Learn from here](https://amitshekhar.me/blog/open-keyword-in-kotlin) [Learn from here](https://www.delftstack.com/howto/kotlin/kotlin-open-class/)
 
-* **Explain the use-case of `let`, `run`, `with`, `also`, `apply` in Kotlin.** - [Answer]([https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply))
+* **Explain the use-case of `let`, `run`, `with`, `also`, `apply` in Kotlin.** - [Answer](https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply)
 
-* **Difference between List and Array types in Kotlin** [Answer]([https://blog.mindorks.com/difference-between-list-and-array-types-in-kotlin))
+* **Difference between List and Array types in Kotlin** [Answer](https://blog.mindorks.com/difference-between-list-and-array-types-in-kotlin)
 
-* **What are `Labels` in Kotlin?** [Answer]([https://www.geeksforgeeks.org/returns-jumps-and-labels-in-kotlin/))
+* **What are `Labels` in Kotlin?** [Answer](https://www.geeksforgeeks.org/returns-jumps-and-labels-in-kotlin/)
 
 * **What is an `Init` block in Kotlin?** - [Learn from here](https://amitshekhar.me/blog/init-block-in-kotlin)
 
