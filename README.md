@@ -70,14 +70,14 @@
 
 * **What is the project structure of an Android Application?** - [Learn from here](https://developer.android.com/studio/projects)
 
-* **What is `AndroidManifest.xml`?**
+* **What is `AndroidManifest.xml`?** [Answer 1](https://medium.com/android-news/androidmanifest-xml-4d5a3e821f91)
 
 * **What is `Application` class?**
     - The Application class in Android is the base class within an Android app that contains all other components such as activities and services. The Application class, or any subclass of the Application class, is instantiated before any other class when the process for your application/package is created.
 
 #### Activity and Fragment
 
-* **What is `Activity` and its lifecycle?**
+* **What is `Activity` and its lifecycle?**- [Answer](https://blog.mindorks.com/android-activity-lifecycle)
 
 * **What is the difference between onCreate() and onStart()**
 
