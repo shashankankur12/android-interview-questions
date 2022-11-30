@@ -85,17 +85,17 @@
 
 * **Why do we need to call setContentView() in onCreate() of Activity class?**
 
-* **What is onSavedInstanceState() and onRestoreInstanceState() in activity?**
+* **What is onSavedInstanceState() and onRestoreInstanceState() in activity?** [Answer](https://medium.com/@shobhith/onsaveinstancestate-and-onrestoreinstancestate-in-android-c29f22b0ef4e)
     - onSavedInstanceState() - This method is used to store data before pausing the activity.
     - onRestoreInstanceState() - This method is used to recover the saved state of an activity when the activity is recreated after destruction. So, the onRestoreInstanceState() receive the bundle that contains the instance state information.
 
-* **What is `Fragment` and its lifecycle.**
+* **What is `Fragment` and its lifecycle.**[Answer](https://google-developer-training.github.io/android-developer-advanced-course-concepts/unit-1-expand-the-user-experience/lesson-1-fragments/1-2-c-fragment-lifecycle-and-communications/1-2-c-fragment-lifecycle-and-communications.html)
 
 * **What are "launch modes"?** - [Learn from here](https://amitshekhar.me/blog/singletask-launchmode-in-android)
 
 * **What is the difference between a `Fragment` and an `Activity`? Explain the relationship between the two.** - [Learn from here](https://stackoverflow.com/questions/10478233/why-fragments-and-when-to-use-fragments-instead-of-activities)
 
-* **When should you use a Fragment rather than an Activity?**
+* **When should you use a Fragment rather than an Activity?** [Answer](https://www.geeksforgeeks.org/difference-between-a-fragment-and-an-activity-in-android/)
     - When you have some UI components to be used across various activities
     - When multiple view can be displayed side by side just like viewPager
 
@@ -117,7 +117,7 @@
 
 #### Views and ViewGroups
 
-* **What is `View` in Android?**
+* **What is `View` in Android?** [Answer](https://www.geeksforgeeks.org/difference-between-view-and-viewgroup-in-android/#:~:text=View%20is%20a%20basic%20building,contain%20other%20views%20in%20it.)
 
 * **Difference between `View.GONE` and `View.INVISIBLE`?** - [Learn from here](https://stackoverflow.com/questions/11556607/android-difference-between-invisible-and-gone)
 
@@ -133,7 +133,7 @@
 
 * **Relative Layout vs Linear Layout.**
 
-* **Tell about Constraint Layout**
+* **Tell about Constraint Layout** [Answer](https://velmurugan-murugesan.medium.com/android-constraintlayout-example-3595058803aa)
 
 * **Do you know what is the view tree? How can you optimize its depth?** - [Learn from here](https://developer.android.com/reference/android/view/ViewTreeObserver)
 
@@ -141,11 +141,11 @@
 
 #### Displaying Lists of Content
 
-* **What is the difference between `ListView` and `RecyclerView`?** - [Learn from here](https://stackoverflow.com/questions/26728651/recyclerview-vs-listview)
+* **What is the difference between `ListView` and `RecyclerView`?** - [Learn from here](https://stackoverflow.com/questions/26728651/recyclerview-vs-listview) [Answer](https://medium.com/@kish.imss/listview-vs-recyclerview-2965d50b363)
 
-* **How does RecyclerView work internally?**
+* **How does RecyclerView work internally?** [Answer](https://blog.mindorks.com/how-does-recyclerview-work-internally)
 
-* **What is the ViewHolder pattern? Why should we use it?** - [Learn from here](https://stackoverflow.com/questions/21501316/what-is-the-benefit-of-viewholder-pattern-in-android)
+* **What is the ViewHolder pattern? Why should we use it?** - [Learn from here](https://stackoverflow.com/questions/21501316/what-is-the-benefit-of-viewholder-pattern-in-android) -- [Answer](What is the ViewHolder pattern? Why should we use it)
 
 * **RecyclerView Optimization - Scrolling Performance Improvement** - [Learn from here](https://amitshekhar.me/blog/recyclerview-optimization)
 
