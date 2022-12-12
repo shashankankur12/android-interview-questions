@@ -91,7 +91,7 @@
 
 * **What is `Fragment` and its lifecycle.**[Answer](https://google-developer-training.github.io/android-developer-advanced-course-concepts/unit-1-expand-the-user-experience/lesson-1-fragments/1-2-c-fragment-lifecycle-and-communications/1-2-c-fragment-lifecycle-and-communications.html)
 
-* **What are "launch modes"?** - [Learn from here](https://amitshekhar.me/blog/singletask-launchmode-in-android)
+* **What are "launch modes"?** - [Learn from here](https://amitshekhar.me/blog/singletask-launchmode-in-android) [ANSWER](https://medium.com/mindorks/android-launch-mode-787d28952959)
 
 * **What is the difference between a `Fragment` and an `Activity`? Explain the relationship between the two.** - [Learn from here](https://stackoverflow.com/questions/10478233/why-fragments-and-when-to-use-fragments-instead-of-activities)
 
