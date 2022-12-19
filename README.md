@@ -346,6 +346,8 @@
 
 * **How ViewModel work internally?** - [Answer](https://blog.mindorks.com/android-viewmodels-under-the-hood)
 
+* **Using Room Database** - [Answer](https://medium.com/mindorks/using-room-database-android-jetpack-675a89a0e942) [Answer](https://www.youtube.com/watch?v=6Z_lTWKy1lg&list=RDCMUCOknqk-MSOCf3SANW8Wumfg&start_radio=1&rv=6Z_lTWKy1lg&t=618)
+
 #### Others
 
 * **Why Bundle class is used for data passing and why cannot we use simple Map data structure?** - [Learn from here](https://developer.android.com/guide/components/activities/parcelables-and-bundles)
