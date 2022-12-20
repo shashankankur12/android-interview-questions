@@ -1074,7 +1074,7 @@
 
 * **Monitor and Synchronization**
 
-* **Tell some advantages of Kotlin.** - [Answer](https://blog.mindorks.com/why-you-must-try-kotlin-for-android-development-e14d00c8084b)
+* **Tell some advantages of Kotlin.** - [Answer](https://blog.mindorks.com/kotlin-android-interview-questions/)
 
 * **What is the difference between `val` and `var`?** - [Learn from here](https://stackoverflow.com/questions/44200075/val-and-var-in-kotlin) [Answer](https://www.geeksforgeeks.org/difference-between-var-and-val-in-kotlin/)
 
