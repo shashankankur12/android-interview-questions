@@ -316,9 +316,9 @@
 
 #### Android System Internal
 
-* **What is the Dalvik Virtual Machine?**
+* **What is the Dalvik Virtual Machine?** [Answer](https://www.geeksforgeeks.org/what-is-dvmdalvik-virtual-machine/)
 
-* **What is the difference JVM, DVM and ART?**
+* **What is the difference JVM, DVM and ART?** [Answer](https://medium.com/programming-lite/android-core-jvm-dvm-art-jit-aot-855039a9a8fa)
 
 * **What are the differences between Dalvik and ART?**
 
