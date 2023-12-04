@@ -386,13 +386,13 @@
 
 * **OkHttp - HTTP Caching** - [Learn from here](https://amitshekhar.me/blog/caching-with-okhttp-interceptor-and-retrofit)
 
-* **Tell me something about RxJava.**
+* **Tell me something about RxJava.** - [Answer 1](https://blog.mindorks.com/rxjava-for-android-rxandroid/)  [Answer 2](https://amitshekhar.me/blog/rxjava-tutorial)
 
 * **How will you handle error in RxJava?**
 
 * **FlatMap Vs Map Operator** - [Learn from here](https://amitshekhar.me/blog/rxjava-map-vs-flatmap)
     
-* **When to use `Create` operator and when to use `fromCallable` operator of RxJava?**
+* **When to use `Create` operator and when to use `fromCallable` operator of RxJava?** - [Answer 2](https://amitshekhar.me/blog/rxjava-create-and-fromcallable-operator)
     
 * **When to use `defer` operator of RxJava?**
     
